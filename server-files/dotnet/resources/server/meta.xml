@@ -1,0 +1,4 @@
+<meta>
+	<info name="server" description="My C# bridge gamemode Resource"/>
+	<script src="bin/Debug/netcoreapp3.1/server.dll" />
+</meta>

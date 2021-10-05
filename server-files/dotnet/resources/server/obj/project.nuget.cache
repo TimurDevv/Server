@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p75U98ZJ37Y/I4ly5YurYPTyqrAdF1VnfzF+pUMPV2WiNFk9aMSyOkiezWWEXQRK+WfA5F5gnL5KeoBUkDPw9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\golovatt\\Desktop\\gta rp\\radgamptest\\server-files\\dotnet\\resources\\server\\server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\golovatt\\.nuget\\packages\\gtanetwork.api\\0.3.7\\gtanetwork.api.0.3.7.nupkg.sha512",
+    "C:\\Users\\golovatt\\.nuget\\packages\\ragemp-bootstrapper\\1.1.3\\ragemp-bootstrapper.1.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

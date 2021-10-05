@@ -1,0 +1,8 @@
+C:\Users\golovatt\Desktop\rage boshiGay\server-files\dotnet\resource\server\bin\x64\Debug\netcoreapp3.1\server.deps.json
+C:\Users\golovatt\Desktop\rage boshiGay\server-files\dotnet\resource\server\bin\x64\Debug\netcoreapp3.1\server.dll
+C:\Users\golovatt\Desktop\rage boshiGay\server-files\dotnet\resource\server\bin\x64\Debug\netcoreapp3.1\server.pdb
+C:\Users\golovatt\Desktop\rage boshiGay\server-files\dotnet\resource\server\obj\x64\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\Users\golovatt\Desktop\rage boshiGay\server-files\dotnet\resource\server\obj\x64\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\Users\golovatt\Desktop\rage boshiGay\server-files\dotnet\resource\server\obj\x64\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+C:\Users\golovatt\Desktop\rage boshiGay\server-files\dotnet\resource\server\obj\x64\Debug\netcoreapp3.1\server.dll
+C:\Users\golovatt\Desktop\rage boshiGay\server-files\dotnet\resource\server\obj\x64\Debug\netcoreapp3.1\server.pdb

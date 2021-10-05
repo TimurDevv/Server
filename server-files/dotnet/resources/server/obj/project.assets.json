@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "gtanetwork.api/0.3.7": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/Bootstrapper.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Bootstrapper.dll": {}
+        }
+      },
+      "RAGEMP-Bootstrapper/1.1.3": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Bootstrapper.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Bootstrapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gtanetwork.api/0.3.7": {
+      "sha512": "lbKhbwNW/8nlI+iTBqIVsU7eAA7aFuYVl1j0oJpYMFq8TaJsseJW2xzuAAhmsAj300VrdEQTZsXXDJy2OR58Yw==",
+      "type": "package",
+      "path": "gtanetwork.api/0.3.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gtanetwork.api.0.3.7.nupkg.sha512",
+        "gtanetwork.api.nuspec",
+        "lib/netcoreapp2.0/Bootstrapper.dll",
+        "lib/netcoreapp2.0/Bootstrapper.xml"
+      ]
+    },
+    "RAGEMP-Bootstrapper/1.1.3": {
+      "sha512": "9fEMNOlyqNRgmccLBc8lxjc4h+STbAlbaSmzfp9cD6hoKM26P565XVZMrVOARO12SWWIrtIwkNWgTXj3Zj/u0A==",
+      "type": "package",
+      "path": "ragemp-bootstrapper/1.1.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netcoreapp3.1/Bootstrapper.dll",
+        "lib/netcoreapp3.1/Bootstrapper.xml",
+        "ragemp-bootstrapper.1.1.3.nupkg.sha512",
+        "ragemp-bootstrapper.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "RAGEMP-Bootstrapper >= 1.1.3",
+      "gtanetwork.api >= 0.3.7"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\golovatt\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\golovatt\\Desktop\\gta rp\\radgamptest\\server-files\\dotnet\\resources\\server\\server.csproj",
+      "projectName": "server",
+      "projectPath": "C:\\Users\\golovatt\\Desktop\\gta rp\\radgamptest\\server-files\\dotnet\\resources\\server\\server.csproj",
+      "packagesPath": "C:\\Users\\golovatt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\golovatt\\Desktop\\gta rp\\radgamptest\\server-files\\dotnet\\resources\\server\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\golovatt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "RAGEMP-Bootstrapper": {
+            "target": "Package",
+            "version": "[1.1.3, )"
+          },
+          "gtanetwork.api": {
+            "target": "Package",
+            "version": "[0.3.7, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
