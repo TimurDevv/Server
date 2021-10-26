@@ -29,9 +29,7 @@ mp.events.add('LoginResult', (result) => {
 
     else {
 
-        //Failed we just send a message to the player saying he provided incorrect info
-        //Here you can be creative and handle it visually in your webpage by using the (browser).execute or loginBrowser.execute in our case to execute a js code in your webpage
-
+       
         mp.gui.chat.push('Incorrect password or username.');
 
     }
